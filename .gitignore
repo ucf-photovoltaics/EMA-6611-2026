@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Local-only working files (not part of the published repo)
+CLAUDE-CODE-INSTRUCTIONS.md
