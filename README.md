@@ -17,3 +17,4 @@ Each assignment ends with a submission checklist. In short: restart and run all,
 |---|---|
 | Homework 1 — Report Topic Selection and Literature Survey Foundation | [`homework/HW01/EMA-6611-HW01.ipynb`](homework/HW01/EMA-6611-HW01.ipynb) |
 | Homework 2 — Absorbers/Emitters and Carrier-Selective Junctions | [`homework/HW02/EMA-6611-HW02.ipynb`](homework/HW02/EMA-6611-HW02.ipynb) |
+| Homework 3 — Passivation and Optical Surfaces and Coatings | [`homework/HW03/EMA-6611-HW03.ipynb`](homework/HW03/EMA-6611-HW03.ipynb) |
